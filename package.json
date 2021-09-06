@@ -1,0 +1,15 @@
+{
+  "name": "aly_facts",
+  "version": "1.0.0",
+  "description": "A package that provides facts about an user on discord with the name of entity_night aka Aly aka Alyssa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Aly",
+    "Aly.js"
+  ],
+  "author": "ServerDeveloper9447",
+  "license": "ISC"
+}
