@@ -8,12 +8,15 @@ This package is for private purposes only.
 To install run in the console:
 ```bash
 npm i aly_facts
+or
+yarn add aly_facts
 ```
 ---
-## This package contains 3 functions <br>
+## This package contains 4 functions <br>
 1. `getFact()`
 2. `getAllFacts()`
 3. `version()`
+4. `getAlyPics()`
 ---
 ### How to use `getFact()`
 
@@ -62,6 +65,27 @@ const version = require('aly_facts').version()
 console.log(version)
 ```
 
+---
+### How to use `getAlyPics()`
+
+***This function returns random pics of aly.***
+
+Code snippet:
+```js
+const aly = require('aly_facts')
+const pic = aly.getAlyPics()
+
+console.log(pic)
+
+//or
+
+const pic = require('aly_facts').getAlyPics()
+
+console.log(pic)
+
+// Note: This function returns image urls hosted on discord's cdn. So console.log will not show the pic itself. instead will return just the url.
+```
+
 # Contributions
 `Server Developer` - ***Main Developer*** <br>
 `Entity_Night aka Aly` - ***Facts Provider and the person the api is based on.***
@@ -92,5 +116,5 @@ Go to our github repo listed below or join this discord server and make a ticket
 ***[Soumalyaplayz API]** - Yet Another General Purpose API*
 
 [Github Repo]: https://github.com/ServerDeveloper9447/aly_facts.git
-[CraftBlur Bot]: https://craftblur.glitch.me
-[Soumalyaplayz API]: https://api.soumalyaplayz.repl.co
+[CraftBlur Bot]: https://www.craftblurbot.cf
+[Soumalyaplayz API]: https://api.spapi.ga
