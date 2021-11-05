@@ -1,6 +1,6 @@
 {
   "name": "aly_facts",
-  "version": "1.1.0-fix",
+  "version": "2.0.0-pics",
   "description": "A package that provides facts about an user on discord with the name of entity_night aka Aly aka Alyssa",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "js"
   ],
   "author": "Server Developer aka Soumalya",
-  "license": "ISC",
+  "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/ServerDeveloper9447/aly_facts/issues"
   },
