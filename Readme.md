@@ -112,9 +112,9 @@ Go to our github repo listed below or join this discord server and make a ticket
 ---
 
 ### Promoted
-***[CraftBlur Bot]** - A multipurpose bot*<br>
-***[Soumalyaplayz API]** - Yet Another General Purpose API*
+***[Power Guilds]** - A security bot for Guilded*<br>
+***[SP-API]** - Yet Another General Purpose API*
 
-[Github Repo]: https://github.com/ServerDeveloper9447/aly_facts.git
-[CraftBlur Bot]: https://www.craftblurbot.cf
-[Soumalyaplayz API]: https://api.spapi.online
+[Github Repo]: https://github.com/ServerDeveloper9447/aly_facts
+[Power Guilds]: https://www.craftblurbot.cf
+[SP-API]: https://api.spapi.online
