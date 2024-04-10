@@ -117,4 +117,4 @@ Go to our github repo listed below or join this discord server and make a ticket
 
 [Github Repo]: https://github.com/ServerDeveloper9447/aly_facts.git
 [CraftBlur Bot]: https://www.craftblurbot.cf
-[Soumalyaplayz API]: https://api.spapi.ga
+[Soumalyaplayz API]: https://api.spapi.online
