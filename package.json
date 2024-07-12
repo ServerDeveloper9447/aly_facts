@@ -1,8 +1,8 @@
 {
   "name": "aly_facts",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "description": "A package that provides facts about an user on discord with the name of entity_night aka Aly aka Alyssa",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/ServerDeveloper9447/aly_facts/issues"
   },
-  "homepage": "https://github.com/ServerDeveloper9447/aly_facts#readme"
+  "homepage": "https://github.com/ServerDeveloper9447/aly_facts#readme",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
 }
